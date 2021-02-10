@@ -1,0 +1,4 @@
+tests\PurchasePageTest.class
+tests\HomePageTest.class
+tests\ConfirmationPageTest.class
+tests\ReservePageTest.class
